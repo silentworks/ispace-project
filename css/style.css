@@ -2,3 +2,7 @@ body {
     margin: 0;
     background-color: tomato;
 }
+p{
+	margin-left: 100px;
+	margin-top: 200px;
+}
